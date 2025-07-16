@@ -1,4 +1,4 @@
-const bcrypt = require("bcrypt")
+const bcrypt = require("bcryptjs")
 const User = require("../../model/user.model.js")
 const Jwt =require("jsonwebtoken")
 const {uploadCloudinary} = require("../../cloudinary.js")
