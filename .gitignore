@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: VS Code settings
+.vscode/
+
+# Optional: Dependency directories for some package managers
+.pnpm/
+dist/
+build/
+
+# Optional: If using coverage tools like Jest
+coverage/
+
+# Render or other deployment-specific cache/temp
+.render/
+
+# Optional: dotenv environment files
+.env.*
+!.env.example
