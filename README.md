@@ -74,6 +74,4 @@ Ams-system uses the {test_framework} test framework. Run the test suite with:
 
 Using npm:
 
-rpm test
-
-Return
+npm test
